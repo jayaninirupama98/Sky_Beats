@@ -1,0 +1,51 @@
+com/example/recyclermusic/PlayerActivity.java
+ com.example.recyclermusic.PlayerActivity
+ com.example.recyclermusic.PlayerActivity$1
+ com.example.recyclermusic.PlayerActivity$2
+ com.example.recyclermusic.PlayerActivity$3
+ com.example.recyclermusic.PlayerActivity$4
+ com.example.recyclermusic.PlayerActivity$5
+ com.example.recyclermusic.PlayerActivity$6
+com/example/recyclermusic/App.java
+ com.example.recyclermusic.App
+com/example/recyclermusic/MyBroadcastReceiver.java
+ com.example.recyclermusic.MyBroadcastReceiver
+com/example/recyclermusic/Retrofit/ApiClient.java
+ com.example.recyclermusic.Retrofit.ApiClient
+com/example/recyclermusic/MyAdapter.java
+ com.example.recyclermusic.MyAdapter
+ com.example.recyclermusic.MyAdapter$1
+ com.example.recyclermusic.MyAdapter$CustomViewHolder
+com/example/recyclermusic/Retrofit/ApiInterface.java
+ com.example.recyclermusic.Retrofit.ApiInterface
+com/example/recyclermusic/Track.java
+ com.example.recyclermusic.Track
+com/example/recyclermusic/ActionReceiver.java
+ com.example.recyclermusic.ActionReceiver
+com/example/recyclermusic/MainActivity.java
+ com.example.recyclermusic.MainActivity
+ com.example.recyclermusic.MainActivity$1
+com/example/recyclermusic/BuildConfig.java
+ com.example.recyclermusic.BuildConfig
+com/example/recyclermusic/DashboardActivity.java
+ com.example.recyclermusic.DashboardActivity
+com/example/recyclermusic/SongsListActivity.java
+ com.example.recyclermusic.SongsListActivity
+ com.example.recyclermusic.SongsListActivity$1
+com/example/recyclermusic/SplashScreen.java
+ com.example.recyclermusic.SplashScreen
+ com.example.recyclermusic.SplashScreen$1
+com/example/recyclermusic/Model/SongModel.java
+ com.example.recyclermusic.Model.SongModel
+com/example/recyclermusic/LoginActivity.java
+ com.example.recyclermusic.LoginActivity
+ com.example.recyclermusic.LoginActivity$1
+ com.example.recyclermusic.LoginActivity$2
+ com.example.recyclermusic.LoginActivity$3
+ com.example.recyclermusic.LoginActivity$4
+com/example/recyclermusic/RegisterActivity.java
+ com.example.recyclermusic.RegisterActivity
+ com.example.recyclermusic.RegisterActivity$1
+ com.example.recyclermusic.RegisterActivity$2
+ com.example.recyclermusic.RegisterActivity$3
+ com.example.recyclermusic.RegisterActivity$4
